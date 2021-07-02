@@ -7,7 +7,8 @@ Purpose:
 Files:
 
   You are going to find 2 files in this reposatory.
-    1) Taller_III.docx : This file contains all the instruction and the detail information necesary to create a solution for the problem (the file is in spanish, you can translate                          it to your mother language).
+  
+    1) Taller_III.docx : This file contains all the instruction and the detail information necesary to create a solution for the problem (the file is in spanish, you can translate it to your mother language).
     
    2) main.c : This file contains the code that I made to solve this problem.
                          This problem was created by the Pontifical Javeriana University and the solution was created by Edward Nicolas Duarte Valencia and Juliana Toro Camelo                              (julianatoroc@javeriana.edu.co)
